@@ -1,0 +1,4 @@
+bateau
+chien
+chat
+avion
