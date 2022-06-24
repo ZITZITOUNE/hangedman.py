@@ -141,7 +141,7 @@ else:
     if answer == 'n':
         print('Goodbye')
     elif answer == 'y':
-        # execute the file
+        # execute the file to restart the script
         execfile("hangedman.py")
     else:
         print('Invalid input.')
